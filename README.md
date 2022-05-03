@@ -1,10 +1,10 @@
 <!-- https://github.com/Smug246/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!-- Profile Views Counter -->\
-<h3 align="center">
+<!-- Profile Views Counter -->
+<p align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=Smug246&color=blueviolet)
-</h3>
+</p>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I'm Smug
