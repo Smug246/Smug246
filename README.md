@@ -2,9 +2,9 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-<p align="center">
+
 ![Profile views](https://komarev.com/ghpvc/?username=Smug246&color=blueviolet)
-</p>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I'm Smug
@@ -22,10 +22,7 @@
                 <br>
         </samp>
         <!-- Programming Languages -->
-        <!-- Code logo -->
-        <a href="https://github.com/Smug246?tab=repositories" target="_blank"><img alt="Code"
-                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-        </a>
+
         <!-- HTML -->
         <a href="https://github.com/Smug246?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
