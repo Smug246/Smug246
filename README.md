@@ -22,7 +22,6 @@
                 <br>
         </samp>
         <!-- Programming Languages -->
-
         <!-- HTML -->
         <a href="https://github.com/Smug246?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
