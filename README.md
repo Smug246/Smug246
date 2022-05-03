@@ -2,9 +2,9 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->\
-<h3 align="center">
+
 ![Profile views](https://gpvc.arturio.dev/Smug246?v=3)
-</h3>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I'm Smug
