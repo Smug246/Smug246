@@ -44,7 +44,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Smug's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Smug246&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=Smug246&show_icons=true&theme=midnight-purple" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
