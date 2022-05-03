@@ -1,11 +1,10 @@
 <!-- https://github.com/Smug246/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!-- Profile Views Counter -->
-
-<p align="center">
-![Profile views](https://gpvc.arturio.dev/Smug246?v=3)
-
+<!-- Profile Views Counter -->\
+<h3 align="center">
+![Profile views](https://komarev.com/ghpvc/?username=Smug246&color=blueviolet)
+</h3>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I'm Smug
@@ -75,7 +74,7 @@
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Smug246/Luna-Grabber-Builder">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&Luna-Grabber-Builder&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-Grabber-Builder&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
 </a>
 </p>
 
