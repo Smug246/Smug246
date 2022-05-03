@@ -66,20 +66,20 @@
 
 <p align="center">
 <a href="https://github.com/Smug246/LunaNuker">
-<img width='50%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=LunaNuker&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=LunaNuker&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Smug246/Luna-Grabber-Builder">
-<img width='50%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-Grabber-Builder&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-Grabber-Builder&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Smug246/Luna-NitroGenerator">
-<img width='50%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-NitroGenerator&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-NitroGenerator&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Smug246/Luna-WebhookSpammer">
-<img width='50%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-WebhookSpammer&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-WebhookSpammer&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
 </a>
 </p>
