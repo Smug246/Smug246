@@ -1,8 +1,9 @@
 <!-- https://github.com/Smug246/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!-- Profile Views Counter -->\
+<!-- Profile Views Counter -->
 
+<p align="center">
 ![Profile views](https://gpvc.arturio.dev/Smug246?v=3)
 
 <!-- Intro  -->
