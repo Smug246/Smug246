@@ -31,8 +31,8 @@
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
         <!-- Discord -->
-        <a href="https://discord.gg/luna22" target="_blank"><img alt="Discord"
-                        src="https://badgen.net/discord/members/luna22">
+        <a href="hhttps://discord.gg/PskF2YeXnd" target="_blank"><img alt="Discord"
+                        src="https://badgen.net/discord/members/PskF2YeXnd">
         </a>
         
 </p>
