@@ -39,9 +39,8 @@
         </a>
         
 </p>
-        <p align="center">
         <br>
-        <!-- Social Links -->
+        <p align="center">
         <p>Find me on</p>
         <!-- Discord -->
         <a href="https://discord.gg/luna22" target="_blank"><img alt="Discord"
