@@ -4,6 +4,10 @@
 <!-- Profile Views Counter -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=Smug246&color=blueviolet)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shade3421&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Shade3421" alt="Total Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Shade3421" alt="Total Forks"></a> </p>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -61,25 +65,3 @@
 <br>
 
 
-<!-- Pinned Repositories -->
-#### Pinned
-
-<p align="center">
-<a href="https://github.com/Smug246/LunaNuker">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=LunaNuker&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Smug246/Luna-Grabber-Builder">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-Grabber-Builder&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Smug246/Luna-NitroGenerator">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-NitroGenerator&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Smug246/Luna-WebhookSpammer">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Smug246&repo=Luna-WebhookSpammer&border_color=5c12df&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=5c12df" />
-</a>
-</p>
