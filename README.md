@@ -32,5 +32,3 @@
 - **📫 Want to reach me? Add Smug#6469 on [discord](https://discord.gg/luna22)**
 </details>
 <br>
-
-
