@@ -39,7 +39,7 @@
         </a>
         
 </p>
-    <p align="center">
+        <p align="center">
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
