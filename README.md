@@ -30,5 +30,6 @@
 - **🌱 I’m currently learning Python**
 
 - **📫 Want to reach me? Add Smug#6469 on [discord](https://discord.gg/luna22)**
+<img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snook hehe"/>
 </details>
 <br>
