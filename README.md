@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Smug</h1>
 <h3 align="center">A intermediate python developer from the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smug246&label=Profile%20views&color=5c12df&style=flat" alt="smug246" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=smug246&label=Profile%20views&color=5c12df&style=flat" alt="smug246" /> </p>
 
 - 🔭 I’m currently working on **Discord Mass Reporter**
 
