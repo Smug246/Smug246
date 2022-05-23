@@ -1,7 +1,7 @@
 <!-- https://github.com/Smug246/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<h1 align="center">Hi 👋, I'm Smug</h1>
+<h1 align="center">Hi 👋 I'm Smug</h1>
 <h3 align="center">A intermediate python developer from the UK</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smug246&label=Profile%20views&color=5c12df&style=flat" alt="smug246" /> </p>
