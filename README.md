@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories) or [Discord](https://discord.gg/luna22)
 
-- 📫 How to reach me **Add Smug#6469 on [Discord](https://discord.gg/luna22)**
+- 📫 You can reach me by **Adding Smug#6469 on [Discord](https://discord.gg/luna22)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
