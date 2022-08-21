@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories) or [Discord](https://discord.gg/luna22)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories) or [Discord](https://discord.gg/PskF2YeXnd)
 
 - 📫 You can reach me by adding **Smug#6469 on [Discord](https://discord.gg/luna22)**
 
