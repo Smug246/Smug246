@@ -19,7 +19,7 @@
 - 📫 You can reach me by adding **Smug#6469 on [Discord](https://discord.gg/HWeThmwy2J)**
 
 
-[![Smug#6469](https://discord.c99.nl/widget/theme-1/500755993374752789.png)](https://discord.c99.nl/)
+[![Smug#6469](https://discord.c99.nl/widget/theme-1/1012712189951492248.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
