@@ -16,14 +16,14 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
 
-- 📫 You can reach me by adding **Smug#6469** or by joining my [discord server](https://discord.gg/HWeThmwy2J)
+- 📫 You can reach me by adding **Smug#6469** or by joining my [discord server](https://discord.gg/qqHM44c55h)
 
 
 [![Smug#6469](https://discord.c99.nl/widget/theme-1/1012712189951492248.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/PskF2YeXnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[https://discord.gg/HWeThmwy2J]" height="30" width="40" /></a>
+<a href="https://discord.gg/qqHM44c55h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[https://discord.gg/HWeThmwy2J]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
