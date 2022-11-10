@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
 
-- 📫 You can reach me by adding **Smug#5801** or by joining my [discord server](https://discord.gg/xA33HsBKg4)
+- 📫 You can reach me by adding **smug#1617**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
