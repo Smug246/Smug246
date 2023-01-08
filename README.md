@@ -10,9 +10,8 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Forks"></a>
 </p>
 
-- 🔭 Latest project **Discord Mass Pinger**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
 
