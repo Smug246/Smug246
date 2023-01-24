@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
 
-- 📫 You can reach me by adding **smug#1617** or joining my [discord server](https://discord.gg/Cdyes9Rxtk)
+- 📫 You can reach me by adding **smug#1136** or joining my [discord server](https://discord.gg/QMFbw6xRyH)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
