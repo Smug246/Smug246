@@ -5,9 +5,9 @@
 <h3 align="center">I'm a fullstack developer from the UK</h3>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=smug246&label=Profile%20views&color=FFFFFF&style=flat" alt="smug246" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=FFFFFF&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=FFFFFF&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Forks"></a>
+<img src="https://komarev.com/ghpvc/?username=smug246&label=Profile%20views&color=lightgrey&style=flat" alt="smug246" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=lightgrey&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=lightgrey&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Forks"></a>
 </p>
 
 
