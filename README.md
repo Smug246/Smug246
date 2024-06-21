@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
 
-- 📫 You can reach me by joining my [Telegram](https://t.me/lunaxsmug) or [Discord](https://discord.gg/BRcG6Zubep)
+- 📫 You can reach me by joining my [Telegram](https://t.me/lunaxsmug)
 
 
 <h3 align="left">Tech Stack</h3>
